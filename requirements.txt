@@ -1,0 +1,9 @@
+matplotlib==3.7.1
+numpy==1.24.2
+pandas==2.0.0
+pandastable==0.13.1
+seaborn==0.12.2
+scipy
+tqdm
+flask-restful
+requests
